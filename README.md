@@ -67,10 +67,12 @@ print(f"Received {data!r}")
 ## OUTPUT:
 
 Server Output: 
-![img1-ex01](/Echoserver/img/img1-ex01.png)
+![img1-ex01](img/img1-ex01.png)
+
+
 
 Client Output:
-![img2-ex01](/Echoserver/img/img2-ex01.png)
+![img2-ex01](img/img2-ex01.png)
 
 ## RESULT:
 The program is executed successfully
