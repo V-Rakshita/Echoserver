@@ -66,12 +66,14 @@ print(f"Received {data!r}")
 
 ## OUTPUT:
 
-Server Output: 
+### Server Output: 
+
 ![img1-ex01](img/img1-ex01.png)
 
 
 
-Client Output:
+### Client Output:
+
 ![img2-ex01](img/img2-ex01.png)
 
 ## RESULT:
